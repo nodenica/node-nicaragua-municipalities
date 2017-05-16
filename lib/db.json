@@ -2,6 +2,7 @@
   {
     "department": "Atlántico Norte",
     "municipalities": [
+      "Puerto Cabezas",
       "Bonanza",
       "Mulukukú",
       "Prinzapolka",
@@ -14,11 +15,12 @@
   {
     "department": "Atlántico Sur",
     "municipalities": [
+      "Bluefields",
       "Corn Island",
       "Desembocadura de Río Grande",
       "El Ayote",
       "El Tortuguero",
-      "Kukra Hill",
+      "Kukrahill",
       "La Cruz de Río Grande",
       "Laguna de Perlas",
       "Muelle de los Bueyes",
@@ -30,6 +32,7 @@
   {
     "department": "Boaco",
     "municipalities": [
+      "Boaco",
       "Camoapa",
       "San Lorenzo",
       "San José de Los Remates",
@@ -41,10 +44,11 @@
     "department": "Carazo",
     "municipalities": [
       "Dolores",
+      "Diriamba",
       "El Rosario",
       "Jinotepe",
       "La Conquista",
-      "La Paz de Oriente",
+      "La Paz de Carazo",
       "San Marcos",
       "Santa Teresa"
     ]
@@ -53,6 +57,7 @@
     "department": "Chinandega",
     "municipalities": [
       "Chinandega",
+      "Chichigalpa",
       "Cinco Pinos",
       "Corinto",
       "El Realejo",
@@ -70,6 +75,7 @@
     "department": "Chontales",
     "municipalities": [
       "Comalapa",
+      "Acoyapa",
       "Cuapa",
       "El Coral",
       "Juigalpa",
@@ -84,6 +90,7 @@
     "department": "Estelí",
     "municipalities": [
       "Estelí",
+      "Condega",
       "La Trinidad",
       "Pueblo Nuevo",
       "San Juan de Limay",
@@ -94,6 +101,7 @@
     "department": "Granada",
     "municipalities": [
       "Diriomo",
+      "Diriá",
       "Granada",
       "Nandaime"
     ]
@@ -102,6 +110,7 @@
     "department": "Jinotega",
     "municipalities": [
       "Jinotega",
+      "El Cuá",
       "La Concordia",
       "San José de Bocay",
       "San Rafael del Norte",
@@ -114,6 +123,7 @@
     "department": "León",
     "municipalities": [
       "El Jicaral",
+      "Achuapa",
       "El Sauce",
       "La Paz Centro",
       "Larreynaga",
@@ -128,6 +138,7 @@
     "department": "Madriz",
     "municipalities": [
       "Palacagüina",
+      "Las Sabanas",
       "San José de Cusmapa",
       "San Juan de Río Coco",
       "San Lucas",
@@ -141,6 +152,7 @@
     "department": "Managua",
     "municipalities": [
       "El Crucero",
+      "Ciudad Sandino",
       "Managua",
       "Mateare",
       "San Francisco Libre",
@@ -154,6 +166,7 @@
     "department": "Masaya",
     "municipalities": [
       "La Concepción",
+      "Catarina",
       "Masatepe",
       "Masaya",
       "Nandasmo",
@@ -167,6 +180,7 @@
     "department": "Matagalpa",
     "municipalities": [
       "El Tuma - La Dalia",
+      "Ciudad Darío",
       "Esquipulas",
       "Matagalpa",
       "Matiguás",
@@ -184,8 +198,9 @@
     "department": "Nueva Segovia",
     "municipalities": [
       "Dipilto",
+      "Ciudad Antigua",
       "El Jícaro",
-      "Güigüilí",
+      "Wiwilí",
       "Jalapa",
       "Macuelizo",
       "Mozonte",
@@ -200,6 +215,7 @@
     "department": "Río San Juan",
     "municipalities": [
       "El Castillo",
+      "El Almendro",
       "Morrito",
       "San Carlos",
       "San Juan del Norte",
@@ -211,6 +227,7 @@
     "municipalities": [
       "Belén",
       "Buenos Aires",
+      "Altagracia",
       "Cárdenas",
       "Moyogalpa",
       "Potosí",
